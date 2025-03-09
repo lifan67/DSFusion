@@ -1,5 +1,6 @@
 CLASS_NAMES: ['Bus', 'Car', 'Pedestrian','Truck']
 
+POINT_CLOUD_RANGE: [0, -54, -6, 230.4, 54, 4]
 DATA_CONFIG:
     _BASE_CONFIG_: my_model/dataset_cfgs/data.yaml
 
